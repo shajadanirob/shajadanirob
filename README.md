@@ -23,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shajadanirob&show_icons=true&locale=en" alt="shajadanirob" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shajadanirob&" alt="shajadanirob" /></p>
+<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shajadanirob&theme=github_dark" alt="shajadanirob" /></p>
