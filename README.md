@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Shajada Nirob</h1>
+
+**shajadanirob/shajadanirob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+ <h1 align="center">Hi 👋, I'm Shajada Nirob</h1>
 <h3 align="center">A MERN stack web developer from Bangladesh</h3>
 <img width="full" height="full" src="https://i.ibb.co/52znG1Q/iam.png" alt=”my banner”>
 
@@ -8,19 +11,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🔭 I’m currently working on react.js,node.js
+- 🌱 I’m currently learning mongos ,metarialUi
+-  I’m looking for help with pepole
 - 💬 Exploring React and mastering Tailwind CSS! Let's talk code.🚀 
 - 📫 "Drop me a line at shajadanirob@gmail.com."
 
 
-
-
-
-
-
-
-
-
-- 📫 How to reach me **shajadanirob@gmail.com**
 
 
 <p align="left">
@@ -34,3 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shajadanirob&show_icons=true&locale=en" alt="shajadanirob" /></p>
 
 <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shajadanirob&theme=github" alt="shajadanirob" /></p>
+ -->
