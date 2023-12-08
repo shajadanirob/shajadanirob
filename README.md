@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shajada Nirob</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img width=”200" height=”200" src="https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-3.png" alt=”my banner”>
+<img width=”200" height=”200" src="https://i.ibb.co/52znG1Q/iam.png" alt=”my banner”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shajadanirob&label=Profile%20views&color=0e75b6&style=flat" alt="shajadanirob" /> </p>
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **shajadanirob@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
