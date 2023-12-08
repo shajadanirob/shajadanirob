@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shajada Nirob</h1>
 <h3 align="center">A MERN stack web developer from Bangladesh</h3>
-<img width="full" height="full" src="https://i.ibb.co/52znG1Q/iam.png" alt=”my banner”>
+<img width="1000" height="1000" src="https://i.ibb.co/52znG1Q/iam.png" alt=”my banner”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shajadanirob&label=Profile%20views&color=0e75b6&style=flat" alt="shajadanirob" /> </p>
 
