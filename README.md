@@ -1,6 +1,4 @@
 
-**shajadanirob/shajadanirob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
  <h1 align="center">Hi 👋, I'm Shajada Nirob</h1>
 <h3 align="center">A MERN stack web developer from Bangladesh</h3>
 <img width="full" height="full" src="https://i.ibb.co/52znG1Q/iam.png" alt=”my banner”>
