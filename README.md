@@ -29,7 +29,8 @@
 <h3 align="left">Stats:</h3>
 
 <div align='center'>
-<p><img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shajadanirob&" alt="shajadanirob" /></p>
+<!-- <p><img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shajadanirob&" alt="shajadanirob" /></p> -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shajadanirob&theme=dark&background=45%2C523844%2CEB5454)](https://git.io/streak-stats)
 <div/>
 
 <div  align='center' style="display: flex; flex-direction: row;">
