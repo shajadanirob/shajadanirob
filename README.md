@@ -29,9 +29,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shajadanirob&" alt="shajadanirob" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shajadanirob&show_icons=true&locale=en&layout=compact" alt="shajadanirob" /></p>
+<div style="display: flex; flex-direction: row;">
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shajadanirob&show_icons=true&locale=en&layout=compact" alt="shajadanirob" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shajadanirob&show_icons=true&locale=en" alt="shajadanirob" /></p>
+</div>
+
 
 <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shajadanirob&theme=radical" alt="shajadanirob" /></p>
  
