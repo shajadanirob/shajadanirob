@@ -1,13 +1,14 @@
-
+<img width="full" height="full" src="https://i.ibb.co/G2SKGw4/iam-2.png" alt=”my banner”>
  <h1 align="center">Hi 👋, I'm Shajada Nirob</h1>
 <h3 align="center">A MERN stack web developer from Bangladesh</h3>
-<img width="full" height="full" src="https://i.ibb.co/52znG1Q/iam.png" alt=”my banner”>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shajadanirob&label=Profile%20views&color=0e75b6&style=flat" alt="shajadanirob" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shajadanirob" alt="shajadanirob" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<h3 align="left">Overview:</h3>
 
 - 🔭 I’m currently working on react.js,node.js
 - 🌱 I’m currently learning mongos ,metarialUi
