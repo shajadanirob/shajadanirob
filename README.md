@@ -1,4 +1,4 @@
-<img width="full" height="full" src="https://i.ibb.co/G2SKGw4/iam-2.png" alt=”my banner”>
+<img width="full" height="full" src="https://i.ibb.co/G2SKGw4/iam-2.png" alt='my banner'/>
  <h1 align="center">Hi 👋, I'm Shajada Nirob</h1>
 <h3 align="center">A MERN stack web developer from Bangladesh</h3>
 
