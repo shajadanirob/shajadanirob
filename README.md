@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shajadanirob" alt="shajadanirob" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<h3 align="left">OverView:</h3>
+<h3 align="left">👀OverView:</h3>
 
 - 🔭 I’m currently working on react.js,node.js
 - 🌱 I’m currently learning mongos ,metarialUi
@@ -29,9 +29,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shajadanirob&" alt="shajadanirob" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shajadanirob&show_icons=true&locale=en&layout=compact" alt="shajadanirob" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shajadanirob&show_icons=true&locale=en&layout=compact" alt="shajadanirob" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shajadanirob&show_icons=true&locale=en" alt="shajadanirob" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shajadanirob&show_icons=true&locale=en" alt="shajadanirob" /></p>
 
 <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shajadanirob&theme=radical" alt="shajadanirob" /></p>
  
