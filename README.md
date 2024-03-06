@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=6E2559&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Shajada+Nirob" alt="Typing SVG" /></a>
  
 <h3 align="center">A MERN stack web developer from Bangladesh</h3>
-<img width="full" height="full" src="https://i.ibb.co/52znG1Q/iam.png" alt=”my banner”>
+<img width="full" height="full" src="https://i.ibb.co/z7hywD8/Purple-Minimalist-Develop-Your-Mobile-App-With-Us-Medium-Banner.jpg" alt=”my banner”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shajadanirob&label=Profile%20views&color=0e75b6&style=flat" alt="shajadanirob" /> </p>
 
